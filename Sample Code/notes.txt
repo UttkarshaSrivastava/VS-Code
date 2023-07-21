@@ -1,0 +1,12 @@
+hello world in the world of web dev
+/* 
+    if flex direction is row
+    align-items works vertically (top-to-bottom)
+    justify-content works horizontally (left-to-right)
+  
+    if flex direction is column
+    align-items works horizontally (left-to-right)
+    justify-content works vertically (top-to-bottom)
+  
+  */
+  
